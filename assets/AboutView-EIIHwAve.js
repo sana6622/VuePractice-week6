@@ -1,0 +1,1 @@
+import{_ as e,c as a,a as s,t as o,b as c,o as n}from"./index-Dp5ROLO-.js";const r={data(){return{data:"123213"}}},_={class:"about"},i=c("h1",null,"This is an about page",-1);function d(p,u,l,f,t,h){return n(),a("div",_,[i,s(" "+o(t.data),1)])}const m=e(r,[["render",d]]);export{m as default};

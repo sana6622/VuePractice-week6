@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{c as r,o as c}from"./index-CKMdxcEc.js";const o={};function t(n,a){return c(),r("h2",null,"購物車頁面")}const f=e(o,[["render",t]]);export{f as default};

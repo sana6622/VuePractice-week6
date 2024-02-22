@@ -1,1 +1,0 @@
-import{_ as e}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{c as o,o as c}from"./index-CeqReqSZ.js";const r={};function n(t,s){return c(),o("h2",null,"後台首頁")}const m=e(r,[["render",n]]);export{m as default};

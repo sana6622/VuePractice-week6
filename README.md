@@ -3,7 +3,7 @@
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Page Link:
-http://127.0.0.1:5173/VuePractice-week6/#/cart
+https://sana6622.github.io/VuePractice-week6/#/
 
 ## Recommended IDE Setup
 
